@@ -71,7 +71,7 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/vedant-kawade-09501b278/" target="_blank">
 <img src="icons/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/VedantKawade/" target="_blank">
+<a href="https://www.instagram.com/Vedant_Kawade03/" target="_blank">
 <img src="icons/instagram.png" alt="Instagram" title="Instagram" width="40" height="40"/>
 </a>
 <a href="mailto:vedantkawade.official@gmail.com" target="_blank">
