@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Vedant Kawade</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/vedant-kawade-09501b278/" target="_blank" rel="noreferrer">Vedant</a> is a passionate Python developer from India, working on AI/ML projects in college now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/vedant-kawade-09501b278/" target="_blank" rel="noreferrer">Vedant</a> is a passionate Python Enthusiast from India, working on AI/ML projects in college now. Feel free to reach out for any Projects related doubts.</font></h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VedantKawade3&color=blue)
 
