@@ -8,19 +8,27 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+import openai
 
-class AI/ML_Enthusiast:
-
+class AI_ML_Enthusiast:
     def __init__(self):
         self.name = "Vedant Kawade"
         self.role = "AI/ML Enthusiast"
         self.language_spoken = ["mr_IN", "hi_IN", "en_IN"]
 
+    def ai_greeting(self):
+        prompt = f"Introduce yourself as {self.name}, an {self.role}, and welcome visitors."
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "system", "content": "You are a friendly AI assistant."},
+                      {"role": "user", "content": prompt}]
+        )
+        return response["choices"][0]["message"]["content"]
+
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print(self.ai_greeting())
 
-
-me = AI/ML_Enthusiast()
+me = AI_ML_Enthusiast()
 me.say_hi()
 ```
 
