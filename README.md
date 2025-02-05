@@ -50,7 +50,7 @@ me.say_hi()
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="50" height="40"/> <img src="icons/vscode.png" alt="vs-code" title="vs-code" width="40" height="40"/><img src="icons/jupyter-notebook.png" alt="jupyter-notebook" title="jupyter-notebook" width="60" height="40"/><img src="icons/Pycharm.png" alt="Pycharm" title="Pycharm" width="40" height="40"/><img src="icons/android-studio.png" alt="android-studio" title="android-studio" width="40" height="40"/><img src="icons/Arduino-IDE.png" alt="Arduino-IDE" title="Arduino-IDE" width="60" height="40"/> </p>
+<p align="left"> <!-- <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="50" height="40"/> <img src="icons/android-studio.png" alt="android-studio" title="android-studio" width="40" height="40"/>--> <img src="icons/vscode.png" alt="vs-code" title="vs-code" width="40" height="40"/><img src="icons/jupyter-notebook.png" alt="jupyter-notebook" title="jupyter-notebook" width="60" height="40"/><img src="icons/Pycharm.png" alt="Pycharm" title="Pycharm" width="40" height="40"/><img src="icons/Arduino-IDE.png" alt="Arduino-IDE" title="Arduino-IDE" width="60" height="40"/> </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
