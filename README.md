@@ -35,9 +35,8 @@ me.say_hi()
 - I’m learning as of now **python Projects**
 
 
-
 #### Programming Language Stack
-<p align="left"><img src="icons/bash.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" title="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" alt="c++" title="c++" width="40" height="40"/>  <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="rust" title="rust" width="80" height="40"/> </p>
+<p align="left"><img src="icons/bash.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" title="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" alt="c++" title="c++" width="40" height="40"/>  <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="rust" title="rust" width="80" height="40"/> <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> --></p>
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
