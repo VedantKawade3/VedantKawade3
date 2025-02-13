@@ -79,6 +79,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" title="Instagram" width="40" height="40"/>
 </a>
 <a href="mailto:vedantkawade.official@gmail.com" target="_blank">
-<img src="/icons/gmail.png" alt="Email -Vedant Kawade" title="Email -Vedant Kawade" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email -Vedant Kawade" title="Email -Vedant Kawade" width="40" height="40"/>
 </a>
 
