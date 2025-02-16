@@ -44,7 +44,7 @@ me.say_hi()
 
 
 #### Programming Language Stack
-<p align="left"><img src="icons/bash.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" title="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" alt="c++" title="c++" width="40" height="40"/>  <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="rust" title="rust" width="80" height="40"/> <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> --></p>
+<p align="left"><img src="icons/bash.png" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" title="c" width="40" height="40"/>  <img src="icons/C++.gif" alt="c++" title="c++" width="40" height="40"/>  <img src="https://www.techzine.eu/wp-content/uploads/2022/07/Rust_programming_language_black_logo.svg_.jpg" alt="rust" title="rust" width="80" height="40"/> <!--https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> --></p>
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
@@ -67,7 +67,7 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" title="github" width="40" height="40"/>
 </a>
 <a href="https://gitlab.com/VedantKawade3" target="_blank">
-<img src="icons/gitlab.png" alt="GitLab" title="GitLab" width="40" height="40"/>
+<img src="icons/gitlab.gif" alt="GitLab" title="GitLab" width="40" height="40"/>
 </a>
 <a href="https://x.com/Vedant_Kawade07" target="_blank">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" alt="Twitter" title="Twitter" width="40" height="40"/>
